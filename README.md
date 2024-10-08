@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mysticeti
 - 👀 I’m interested in Full-stack dev
-- 🌱 I’m currently learning Flutter, Kotlin
+- 🌱 I’m learning and developing using Java(Springboot, Dropwizard), Go, Python, Dart (Flutter), 
 
 
 <!---
